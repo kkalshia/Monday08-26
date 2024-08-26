@@ -1,0 +1,22 @@
+*{
+    padding: 2;
+    margin: 2;
+}
+
+
+main{
+    height: 1vh;
+}
+
+footer{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    
+}
+
+
+.center_div{
+    display: flex;
+    justify-content: center; 
+}
